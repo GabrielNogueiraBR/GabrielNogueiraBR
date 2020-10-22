@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nogueira</h1>
 <h3 align="center">A student Software Engineer in Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielnogueirabr&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielnogueirabr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielnogueirabr" alt="gabrielnogueirabr" /></a> </p>
-
 - 💻 I’m currently working on [ClinCode](https://github.com/GabrielNogueiraBR/ClinCode-Sistema-para-Clinicas)
 
 - 🌱 I’m currently learning **Java and Spring Framework**
