@@ -28,5 +28,5 @@
 <br>
 <p align="center"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielnogueirabr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gabrielnogueirabr" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielnogueirabr&show_icons=true&theme=tokyonight&locale=en" alt="gabrielnogueirabr" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielnogueirabr&show_icons=true&theme=tokyonight&locale=en" alt="gabrielnogueirabr" />
 </p>
