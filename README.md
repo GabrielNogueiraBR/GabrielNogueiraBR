@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Framework**
 
-- 🎮 My hobby is [play games and watch movies 🎥](play games and watch movies 🎥)
+- 🎮 My hobby is [play games and watch movies](play games and watch movies)
 
 - 📫 How to reach me **gabrielnoog7@gmail.com**
 
