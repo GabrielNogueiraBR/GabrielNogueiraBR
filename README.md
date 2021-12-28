@@ -14,7 +14,7 @@
 - 🚀 I enjoy learn new **technologies**
 
 <br>
-<p align="center">
+<p align="center" style="width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielnogueirabr&show_icons=true&theme=tokyonight&locale=en" alt="gabrielnogueirabr" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielnogueirabr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="gabrielnogueirabr" />
 </p>
