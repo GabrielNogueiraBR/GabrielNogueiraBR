@@ -3,7 +3,8 @@
 
 - 💻 I’m currently working on [Monext](https://github.com/GabrielNogueiraBR/Monext)
 
-- 🌱 I’m currently learning **Java and Spring Framework**
+<!-- - 🌱 I’m currently learning **Java and Spring Framework** -->
+- 🌱 I’m currently learning **Typescript and ReactJS**
 
 - 🎮 My hobby is **play games and watch movies**
 
