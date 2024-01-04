@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gabrielnoog7@gmail.com**
 
-- 🍃 I like observe **nature**
+<!-- - 🍃 I like observe **nature** -->
 
 - 🚀 I enjoy learn new **technologies**
 
