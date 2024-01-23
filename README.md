@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working with **React.js, Next.js and Typescript**
 
-- 🌱 I’m currently learning **Blockchain, Soldity and more about Ethereum network**
+- 🌱 I’m currently learning **NestJS and Spring Boot**
 
 - 🎮 My hobby is **play games and watch movies**
 
