@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working with **React.js, Next.js and Typescript**
 
-- 🌱 I’m currently learning **NestJS and Spring Boot**
+- 🌱 I’m currently learning **NestJS**
 
 - 🎮 My hobby is **play games and watch movies**
 
