@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Nogueira</h1>
 <h3 align="center">A Software Engineer in Brazil</h3>
 
-- 💻 I’m currently working on [R2U](https://github.com/r2u-io)
+<!-- - 💻 I’m currently working on [R2U](https://github.com/r2u-io) -->
 
 - 💻 I’m currently working with **React.js, Next.js and Typescript**
 
